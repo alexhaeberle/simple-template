@@ -8,3 +8,8 @@ This project was scaffolded using the **Simple Project Template** in Backstage.
 
 ```bash
 npm install
+```
+
+```
+npm start package.json
+```
