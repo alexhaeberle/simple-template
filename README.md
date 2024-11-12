@@ -13,5 +13,5 @@ npm install
 ### Running The Project
 
 ```
-npm start package.json
+npm start
 ```
